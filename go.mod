@@ -1,1 +1,3 @@
-module "gohomework15"
+module remux
+
+go 1.14
